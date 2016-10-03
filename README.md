@@ -33,9 +33,9 @@ _Auchan, Groupe Auchan – Hypermarché d’Osny :_
 - Développement de nouveaux produits
 
 ##Mes formations:
-2008 = Bac Economique et social
-2011 = BTS Management des unités commerciales et alternance
-2012 = Licence professionnelle de transport de marchandises en alternance
+- 2008 = Bac Economique et social
+- 2011 = BTS Management des unités commerciales et alternance
+- 2012 = Licence professionnelle de transport de marchandises en alternance
 
 ##Mes Compétences:
 ###Langues
